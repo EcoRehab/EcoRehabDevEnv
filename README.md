@@ -10,6 +10,9 @@ Steps to Get running:
 5. Open up a web browser and the wordpress site should be at localhost:8000
 6. Login credentials are user: wordpress, password: wordpress
 
+Plugins:
+
+Wordpress Polymer Plugin
 
 
 
